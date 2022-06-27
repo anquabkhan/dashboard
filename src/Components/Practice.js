@@ -2,7 +2,7 @@ import React from 'react';
 import "../Styles/Practice_style.css"
 
 const Practice= () => {
-    const change = "master-1"
+    const change = "master-2"
     return (
         <>
             <div>
